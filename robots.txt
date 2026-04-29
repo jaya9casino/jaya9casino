@@ -1,5 +1,3 @@
 User-agent: *
 Disallow: /play-now/
 Disallow: /play-now
-
-Sitemap: /sitemap.xml
